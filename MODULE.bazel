@@ -1,7 +1,7 @@
 module(
     name = "bzlmodrio-ni",
-    version = "2024.2.1.bcr1",
-    compatibility_level = 2024,
+    version = "2025.0.0",
+    compatibility_level = 2025,
 )
 
 bazel_dep(name = "platforms", version = "0.0.9")
