@@ -1,6 +1,6 @@
 module(
     name = "bzlmodrio-ni",
-    version = "2025.0.0.bcr1",
+    version = "2025.2.0",
     compatibility_level = 2025,
 )
 
