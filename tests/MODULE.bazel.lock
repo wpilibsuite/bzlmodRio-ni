@@ -39,8 +39,8 @@
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_android/0.1.1/source.json": "e6986b41626ee10bdc864937ffb6d6bf275bb5b9c65120e6137d56e6331f089e",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_bazelrio/0.0.14/MODULE.bazel": "e4004326cab72e5b27b697a01b03139276ac04c6e7c177ddb9424afc8709e51b",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_bazelrio/0.0.14/source.json": "7da669bc69d497942a9ac21b8f76c05f4a91b4212e3a697a1e27d9358576e995",
-    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_bzlmodrio_toolchains/2024-1.bcr1/MODULE.bazel": "c9eb05f0f01e748a5d923d56e6f846f01c630e823f01d79d40f2b04638cc43f7",
-    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_bzlmodrio_toolchains/2024-1.bcr1/source.json": "ede33537e659d196e38226a94a3d8543b739f38f7ced571745cb469f6adebd02",
+    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_bzlmodrio_toolchains/2025-1.bcr1/MODULE.bazel": "a4251b7577b3e1dcdf5ac97363672a79d0a000dffae768df5997e1489a0440db",
+    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_bzlmodrio_toolchains/2025-1.bcr1/source.json": "383845de7921f624b577b821419b3e024f8c91393b6f9b201103180447e99693",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_cc/0.0.1/MODULE.bazel": "cb2aa0747f84c6c3a78dad4e2049c154f08ab9d166b1273835a8174940365647",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_cc/0.0.2/MODULE.bazel": "6915987c90970493ab97393024c156ea8fb9f3bea953b2f3ec05c34f19b5695c",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_cc/0.0.6/MODULE.bazel": "abf360251023dfe3efcef65ab9d56beefa8394d4176dd29529750e1c57eaa33f",
@@ -80,10 +80,10 @@
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_python/0.4.0/MODULE.bazel": "9208ee05fd48bf09ac60ed269791cf17fb343db56c8226a720fbb1cdf467166c",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_spotless/2.40.0/MODULE.bazel": "b0c226d7507283abdb1efaa02d825bf2b9309be29b43c360c0d72ed5495a3193",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_spotless/2.40.0/source.json": "3b30fdb61387120b12f4620df7324fecd70a058ab35c852e8a7a38376eb62ae0",
-    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpi_styleguide/2024.06.22/MODULE.bazel": "6cb91daeb7ad70eaee12c846f1546e24ab5eef2622a9be94207c7e20f5c23908",
-    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpi_styleguide/2024.06.22/source.json": "75e144b32b627194049db6936824432ead44958bc7c614acb27ae1dd4b0a6c09",
-    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpiformat/2024.34/MODULE.bazel": "313c324b4943055dca70f00717e3822d56a7e49d3c58c0afdebbd4cd9b86c94c",
-    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpiformat/2024.34/source.json": "af2b5ece138006d676768b6666d65814e1cd39a0db000bd44e298cbf923bd5e5",
+    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpi_styleguide/2024.11.19/MODULE.bazel": "d4d63695c750ad5381b7b05182ec7d8d7be9582d33614d18ba94714f820cbb8e",
+    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpi_styleguide/2024.11.19/source.json": "2dac36528f3e271473d819df22081be545a99ff1bf7f6b6249269c9073d5259b",
+    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpiformat/2024.45/MODULE.bazel": "b7aa582084b3624d62ac984c1803b2e95943bd5fd030f15f437ca0cfc318bf95",
+    "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/rules_wpiformat/2024.45/source.json": "c2df802b5e63a0532f6730ee0c550a92ffaab0de397f23ae6f03f484ccae4909",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/stardoc/0.5.1/MODULE.bazel": "1a05d92974d0c122f5ccf09291442580317cdd859f07a8655f1db9a60374f9f8",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/stardoc/0.5.3/MODULE.bazel": "c7f6948dae6999bf0db32c1858ae345f112cacf98f174c7a8bb707e41b974f1c",
     "https://raw.githubusercontent.com/pjreiniger/bazel-central-registry/bzlmodrio/modules/stardoc/0.5.6/MODULE.bazel": "c43dabc564990eeab55e25ed61c07a1aadafe9ece96a4efabb3f8bf9063b71ef",
@@ -144,8 +144,8 @@
     },
     "@@rules_bzlmodrio_toolchains~//:extensions.bzl%sh_configure": {
       "general": {
-        "bzlTransitiveDigest": "j4O0iFZXZn73f671MC8nnNxQjAgGlUpgGlxBz+nI3Ks=",
-        "usagesDigest": "RBlVaNI5Fi1NROynWhJLKM6Cw+BnO3zMR0SEwtL9fNc=",
+        "bzlTransitiveDigest": "y3VhQ/OweSckH7QhXVVFH8vrtha8h3Qq+zN/iics/uk=",
+        "usagesDigest": "xsh74sBSG5byjRbdZlFirQrenuND4+MTbjdWDksDxfo=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
@@ -169,7 +169,7 @@
             "attributes": {
               "compiler": "roborio",
               "bin_subfolder": "roborio-academic/bin",
-              "bin_prefix": "arm-frc2024-linux-gnueabi-",
+              "bin_prefix": "arm-frc2025-linux-gnueabi-",
               "sysroot_subfolder": "roborio-academic/arm-nilrt-linux-gnueabi/sysroot",
               "cxx_version": "12",
               "sysroot_include_folder": "arm-nilrt-linux-gnueabi",
@@ -189,21 +189,330 @@
               "repo_shortname": "bullseye_32"
             }
           },
-          "local_raspi_32": {
+          "local_raspi_bookworm_32": {
             "bzlFile": "@@rules_bzlmodrio_toolchains~//toolchains:configure_cross_compiler.bzl",
             "ruleClassName": "configure_cross_compiler",
             "attributes": {
-              "compiler": "raspi-32",
+              "compiler": "raspi-bookworm-32",
+              "bin_subfolder": "raspi-bookworm/bin",
+              "bin_prefix": "armv6-bookworm-linux-gnueabihf-",
+              "sysroot_subfolder": "raspi-bookworm/arm-linux-gnueabihf/sysroot",
+              "cxx_version": "12",
+              "sysroot_include_folder": "arm-linux-gnueabihf",
+              "repo_shortname": "raspi_bookworm_32"
+            }
+          },
+          "local_bookworm_32": {
+            "bzlFile": "@@rules_bzlmodrio_toolchains~//toolchains:configure_cross_compiler.bzl",
+            "ruleClassName": "configure_cross_compiler",
+            "attributes": {
+              "compiler": "bookworm-32",
+              "bin_subfolder": "bookworm/bin",
+              "bin_prefix": "armv7-bookworm-linux-gnueabihf-",
+              "sysroot_subfolder": "bookworm/arm-linux-gnueabihf/sysroot",
+              "cxx_version": "12",
+              "sysroot_include_folder": "arm-linux-gnueabihf",
+              "repo_shortname": "bookworm_32"
+            }
+          },
+          "local_bookworm_64": {
+            "bzlFile": "@@rules_bzlmodrio_toolchains~//toolchains:configure_cross_compiler.bzl",
+            "ruleClassName": "configure_cross_compiler",
+            "attributes": {
+              "compiler": "bookworm-64",
+              "bin_subfolder": "bookworm/bin",
+              "bin_prefix": "aarch64-bookworm-linux-gnu-",
+              "sysroot_subfolder": "bookworm/aarch64-linux-gnu/sysroot",
+              "cxx_version": "12",
+              "sysroot_include_folder": "aarch64-linux-gnu",
+              "repo_shortname": "bookworm_64"
+            }
+          },
+          "local_raspi_bullseye_32": {
+            "bzlFile": "@@rules_bzlmodrio_toolchains~//toolchains:configure_cross_compiler.bzl",
+            "ruleClassName": "configure_cross_compiler",
+            "attributes": {
+              "compiler": "raspi-bullseye-32",
               "bin_subfolder": "raspi-bullseye/bin",
               "bin_prefix": "armv6-bullseye-linux-gnueabihf-",
               "sysroot_subfolder": "raspi-bullseye/arm-linux-gnueabihf/sysroot",
               "cxx_version": "10",
               "sysroot_include_folder": "arm-linux-gnueabihf",
-              "repo_shortname": "raspi_32"
+              "repo_shortname": "raspi_bullseye_32"
             }
           }
         },
         "recordedRepoMappingEntries": []
+      }
+    },
+    "@@rules_bzlmodrio_toolchains~//:maven_deps.bzl%deps": {
+      "general": {
+        "bzlTransitiveDigest": "GM0I8AartRlE8RSwTMG7A4F3pL0nggDUq3Cw0mJCCyo=",
+        "usagesDigest": "fs+eJAaErQ18Mxoz79SBjXzot+de8xWxjZPeBqljakI=",
+        "recordedFileInputs": {},
+        "recordedDirentsInputs": {},
+        "envVariables": {},
+        "generatedRepoSpecs": {
+          "bazelrio_bookworm_32_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bookworm-2025-x86_64-linux-gnu-Toolchain-12.2.0.tgz",
+              "sha256": "3a0d0b350c359c8a46ce58e654ba4d5e97177833f0181792151401fe110aac32",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bookworm_32_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bookworm-2025-x86_64-apple-darwin-Toolchain-12.2.0.tgz",
+              "sha256": "9e0db21b655956fea0e9169a9d7daf86ccde1c78bdf42d633305ab8efb944c23",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_32_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bullseye-2025-x86_64-linux-gnu-Toolchain-10.2.0.tgz",
+              "sha256": "1cfedd017bab157881f5f81b785152033269e02d4fe72e0c36957263d145041b",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_roborio_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/cortexa9_vfpv3-roborio-academic-2025-x86_64-linux-gnu-Toolchain-12.1.0.tgz",
+              "sha256": "0ed7c454eab947166c41177f72f795a408f4b7c5fc0f7fd6ee35dba1871fbfac",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_64_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bullseye-2025-arm64-apple-darwin-Toolchain-10.2.0.tgz",
+              "sha256": "0f67594b4ea984b6296e838e0f1e8e6efde58916f98b4a650a8b3c391ce18e04",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_roborio_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/cortexa9_vfpv3-roborio-academic-2025-arm64-apple-darwin-Toolchain-12.1.0.tgz",
+              "sha256": "2fb949bf683ac2ecf3874767369c9f6a013941cd9e702f08bd5e4a248e9b82dd",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_32_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bullseye-2025-x86_64-apple-darwin-Toolchain-10.2.0.tgz",
+              "sha256": "d46d8191b8ad04494439bf4d14dc599d8531552e56f25dcd7949dc9cf7b0d512",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_32_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bookworm-2025-x86_64-w64-mingw32-Toolchain-12.2.0.zip",
+              "sha256": "d0af53f4191d09c36ba189d9e20d9524dc164847c8c39e4f5ca961fe8d5eb056",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bookworm_32_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bookworm-2025-arm64-apple-darwin-Toolchain-12.2.0.tgz",
+              "sha256": "ec754b7d64d3e989dd6dd7a91abab7b4ca9abc5c75f252ab37ffc585ac39a287",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_64_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bookworm-2025-x86_64-linux-gnu-Toolchain-12.2.0.tgz",
+              "sha256": "d94005ae516bb43fc85a07ed89cb51bec96ed931ca5c084427f1432a1dbf71e9",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bookworm_32_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bookworm-2025-x86_64-linux-gnu-Toolchain-12.2.0.tgz",
+              "sha256": "e3cf3a726268aafa55d79af588a1d02392c073a033b8c3b2a0c6ccd99e18a184",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_roborio_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/cortexa9_vfpv3-roborio-academic-2025-x86_64-apple-darwin-Toolchain-12.1.0.tgz",
+              "sha256": "5d7021faa2745227adf04ad31f90c64f2b89527dac4283f5a28c0d5c8a227816",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_roborio_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/cortexa9_vfpv3-roborio-academic-2025-x86_64-w64-mingw32-Toolchain-12.1.0.zip",
+              "sha256": "1395ae04cf5c617683ff8eb473c949740a6bb57c9405668f179c7206ab6ba3f8",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_64_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bookworm-2025-x86_64-apple-darwin-Toolchain-12.2.0.tgz",
+              "sha256": "34af7c9b601bbce1fe5c5e07f70fe8abd7ed3985cc603dbc12ef7f3d8c2f0b9d",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bookworm_32_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bookworm-2025-x86_64-w64-mingw32-Toolchain-12.2.0.zip",
+              "sha256": "dead6a0066885c51b64871d8cd8116919a0cf4040960af1bce0e26290ee4f034",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_32_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bullseye-2025-arm64-apple-darwin-Toolchain-10.2.0.tgz",
+              "sha256": "abf3216fd08968bf3bef67c3cbad720c9dc1385672197a2b2d5f2009a7fd995e",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_64_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bullseye-2025-x86_64-w64-mingw32-Toolchain-10.2.0.zip",
+              "sha256": "d978c2baa757571b3cb413844f3fa26b779259a4f8a680fb2fb872a13c8618b3",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_64_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bullseye-2025-x86_64-linux-gnu-Toolchain-10.2.0.tgz",
+              "sha256": "df3b1fa4ca83d61e853fa32620ede3f2402dc3b6088653c1ae85714cd5c566ed",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bullseye_32_toolchain_linux": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bullseye-2025-x86_64-linux-gnu-Toolchain-10.2.0.tgz",
+              "sha256": "b53465a8d36de937a0f88299f8ab3a97db5af3cdf4f7e52473bf294c5c1da3f6",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_32_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bookworm-2025-x86_64-apple-darwin-Toolchain-12.2.0.tgz",
+              "sha256": "633fccbe1508478b095a03a05477795825971cdac0860bf3a0f79f5be2f73a5a",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_32_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bullseye-2025-x86_64-w64-mingw32-Toolchain-10.2.0.zip",
+              "sha256": "6d2d6684ffc8791d2a261fb8ed8b92d8c00408f0b24dcd5557ed3aebdd096c15",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bullseye_32_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bullseye-2025-arm64-apple-darwin-Toolchain-10.2.0.tgz",
+              "sha256": "3f30b54ef98aba939058680ba7906b59da758552ee183595dc006613744e0038",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_32_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-bookworm-2025-arm64-apple-darwin-Toolchain-12.2.0.tgz",
+              "sha256": "dddddbd08ca3771581f9a77311191d60371b0e5dc4ba166450198f3a59c43d13",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bullseye_32_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bullseye-2025-x86_64-w64-mingw32-Toolchain-10.2.0.zip",
+              "sha256": "4a891d7a5de1fc3cd03f60b4340f586ad2750fef8baab35c408e23fa539a0213",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_64_toolchain_windows": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bookworm-2025-x86_64-w64-mingw32-Toolchain-12.2.0.zip",
+              "sha256": "50f26a9b0ae595bd536f5b7003a465b04871005cbe57c18e84f657e83df13f4c",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bookworm_64_toolchain_macosarm": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bookworm-2025-arm64-apple-darwin-Toolchain-12.2.0.tgz",
+              "sha256": "e29fa2433cee667d75ff106543d88d3d4154e2f450c79d86d316d5b8015d11e4",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_bullseye_64_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/arm64-bullseye-2025-x86_64-apple-darwin-Toolchain-10.2.0.tgz",
+              "sha256": "d0b581e3962b4d23d720ff982e2df05ba516329b135a6b09e5bf292b114aac2b",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          },
+          "bazelrio_raspi_bullseye_32_toolchain_macos": {
+            "bzlFile": "@@bazel_tools//tools/build_defs/repo:http.bzl",
+            "ruleClassName": "http_archive",
+            "attributes": {
+              "url": "https://github.com/wpilibsuite/opensdk/releases/download/v2025-1/armhf-raspi-bullseye-2025-x86_64-apple-darwin-Toolchain-10.2.0.tgz",
+              "sha256": "e205a4824a0d6704e968184e52525c5fa200b3e2278177a80d970b2077896f74",
+              "build_file_content": "filegroup(\n    name = \"all\",\n    srcs = glob([\"**\"]),\n    visibility = [\"//visibility:public\"],\n)\n"
+            }
+          }
+        },
+        "recordedRepoMappingEntries": [
+          [
+            "rules_bzlmodrio_toolchains~",
+            "bazel_tools",
+            "bazel_tools"
+          ]
+        ]
       }
     },
     "@@rules_kotlin~//src/main/starlark/core/repositories:bzlmod_setup.bzl%rules_kotlin_extensions": {
@@ -917,7 +1226,7 @@
     "@@rules_python~//python/extensions:python.bzl%python": {
       "general": {
         "bzlTransitiveDigest": "RGX2v9xb9QjMJCorSvD+Rdl8qHuMT8nI7uP8Y+QfPC8=",
-        "usagesDigest": "MaduAE3WOxN/PvWzwR4HH2QnP67oWmjdShMgw93UNFc=",
+        "usagesDigest": "yaPnVPdJzZNH/Bx0FAs07bA2qxmE1Q4lAmHXRT10Brk=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {
