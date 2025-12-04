@@ -26,50 +26,50 @@ def __setup_bzlmodrio_ni_cpp_dependencies(mctx):
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_chipobject_headers",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/chipobject/2025.2.0/chipobject-2025.2.0-headers.zip",
-        sha256 = "5b0f685890fe02fc5da0c64a8b7755a1e4cc1debd107717673f17ba1c0e37742",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/chipobject/2026.1.0/chipobject-2026.1.0-headers.zip",
+        sha256 = "77c60c8b9288df0b8fc28b2202d9d40cd9e0fc44001f260582b16be471f33228",
         build_file_content = cc_library_headers,
     )
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_chipobject_linuxathena",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/chipobject/2025.2.0/chipobject-2025.2.0-linuxathena.zip",
-        sha256 = "496744d042da65a3550a0dcf9a789b91bc00b63605a54aa81a649ebdd19a4118",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/chipobject/2026.1.0/chipobject-2026.1.0-linuxathena.zip",
+        sha256 = "84dc94f502be6ca0d4385bf6564dcf350dfcdb54e409ea1350c6acc08c1f8ed6",
         build_file = "@bzlmodrio-ni//private/cpp/chipobject:shared.BUILD.bazel",
     )
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_visa_headers",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/visa/2025.2.0/visa-2025.2.0-headers.zip",
-        sha256 = "fad1ef38ba5a709a91a933a5d521e7d146f1407edf29d987265f33d61f16da0c",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/visa/2026.1.0/visa-2026.1.0-headers.zip",
+        sha256 = "65f3fc529ed2260b458f1cfc800578b297b4e7fab9d14f000db1b3ef254a5c0f",
         build_file_content = cc_library_headers,
     )
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_visa_linuxathena",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/visa/2025.2.0/visa-2025.2.0-linuxathena.zip",
-        sha256 = "f2dde55ef52bf6aecdfdae1f43716dbbc011dfcfe5b943bf81f4faf03d619f8c",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/visa/2026.1.0/visa-2026.1.0-linuxathena.zip",
+        sha256 = "7961ec53abfcde252189e4bbb1452cf7e700cd799a2386156e4d4d77a02f490c",
         build_file = "@bzlmodrio-ni//private/cpp/visa:shared.BUILD.bazel",
     )
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_runtime_linuxathena",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/runtime/2025.2.0/runtime-2025.2.0-linuxathena.zip",
-        sha256 = "2ed343829504083dfda65e552b734b91ed5c9d3bd96451a0ff2c183775600d39",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/runtime/2026.1.0/runtime-2026.1.0-linuxathena.zip",
+        sha256 = "be5873ba03c2bae88b2c8b23b2003b077370fb1767e700e8042bcfdae854e5a2",
         build_file = "@bzlmodrio-ni//private/cpp/runtime:shared.BUILD.bazel",
     )
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_netcomm_headers",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/netcomm/2025.2.0/netcomm-2025.2.0-headers.zip",
-        sha256 = "9a652d8bffe6304ab80bedeabf74352421413b3751ff0e7eec54f6fe1262112a",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/netcomm/2026.1.0/netcomm-2026.1.0-headers.zip",
+        sha256 = "bd3d004d6c24bdd31b9b00721da89d3159a855f4aeb9c41d7001507519870141",
         build_file_content = cc_library_headers,
     )
     maybe(
         http_archive,
         "bazelrio_edu_wpi_first_ni-libraries_netcomm_linuxathena",
-        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/netcomm/2025.2.0/netcomm-2025.2.0-linuxathena.zip",
-        sha256 = "b724a736c9924a2dc0d99cf5e0979fb582185d577cdcce768335825ab2f4b9f0",
+        url = "https://frcmaven.wpi.edu/release/edu/wpi/first/ni-libraries/netcomm/2026.1.0/netcomm-2026.1.0-linuxathena.zip",
+        sha256 = "49252087166fabbb2f31d73d1c9ecb9341953e2b0b42abe59baab70008db21f9",
         build_file = "@bzlmodrio-ni//private/cpp/netcomm:shared.BUILD.bazel",
     )
 
